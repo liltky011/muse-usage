@@ -176,6 +176,54 @@ async function build() {
     w.addSpacer(12);
     addIgDm(w, data);
 
+    if (data.tasks && data.tasks.length > 0) {
+      w.addSpacer(14);
+      const th = w.addText("直近のタスク");
+      th.textColor = DIM;
+      th.font = Font.semiboldSystemFont(11);
+      w.addSpacer(4);
+      for (const t of data.tasks.slice(0, 3)) {
+        const row = w.addStack();
+        row.layoutHorizontally();
+        const due = row.addText(t.due);
+        due.textColor = t.days <= 1 ? ACCENT : FG;
+        due.font = Font.semiboldSystemFont(12);
+        row.addSpacer(8);
+        const tt = row.addText(t.title);
+        tt.textColor = FG;
+        tt.font = Font.systemFont(12);
+        tt.lineLimit = 1;
+        row.addSpacer();
+        w.addSpacer(2);
+      }
+    }
+
+    if (data.deals && data.deals.length > 0) {
+      w.addSpacer(8);
+      const row = w.addStack();
+      row.layoutHorizontally();
+      data.deals.forEach((d, i) => {
+        if (i > 0) row.addSpacer(14);
+        const n = row.addText(d.name + " ");
+        n.textColor = DIM;
+        n.font = Font.systemFont(12);
+        const p = row.addText(d.price);
+        p.textColor = FG;
+        p.font = Font.semiboldSystemFont(12);
+      });
+      row.addSpacer();
+    }
+
+    if (data.news && data.news.length > 0) {
+      w.addSpacer(8);
+      for (const n of data.news.slice(0, 2)) {
+        const t = w.addText(n.headline);
+        t.textColor = DIM;
+        t.font = Font.systemFont(11);
+        t.lineLimit = 1;
+      }
+    }
+
     w.addSpacer();
     const div = w.addStack();
     div.backgroundColor = FAINT;
