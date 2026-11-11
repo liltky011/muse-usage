@@ -91,7 +91,7 @@ async function build() {
   row1.bottomAlignContent();
   const st = row1.addText(shiftText(data.today));
   st.textColor = FG;
-  st.font = Font.boldSystemFont(26);
+  st.font = Font.boldSystemFont(22);
   row1.addSpacer(10);
   const tm = row1.addText("明日 " + shiftText(data.tomorrow));
   tm.textColor = DIM;
