@@ -1,1 +1,7 @@
-{"extraTokensLeftPercent":100,"leftPercent":24,"resetAt":"2026-11-13T15:30:00+09:00","updatedAt":"2026-11-12T23:24:43+09:00","usedPercent":76}
+{
+  "usedPercent": 76,
+  "leftPercent": 24,
+  "resetAt": "2026-11-13T15:30:00+09:00",
+  "extraTokensLeftPercent": 100,
+  "updatedAt": "2026-11-13T00:24:50+09:00"
+}
