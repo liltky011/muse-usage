@@ -1,1 +1,128 @@
-{"date": "2026-11-14", "today": {"shift": "J", "start": "08:00", "end": "17:00", "dayOff": false}, "tomorrow": {"shift": "J", "start": "08:00", "end": "17:00", "dayOff": false}, "usage": {"usedPercent": 16, "leftPercent": 84, "resetAt": "2026-11-20T15:37:00+09:00"}, "instagram": {"gumi_company": {"followers": 380, "delta": 1}, "dj_gumi_company": {"followers": 22, "delta": 0}}, "dm": {"unread": 0, "requests": 12}, "tasks": [{"due": "11/17", "days": 3, "title": "アルバム『Lita』リリース"}, {"due": "12/9", "days": 25, "title": "CoeFont Standard解約（12/10請求の前日まで）"}, {"due": "12/11", "days": 27, "title": "GitHubトークン再発行（ウィジェット用）"}], "deals": [{"name": "Ozone 12 Adv", "price": "$309"}, {"name": "Anker 547", "price": "¥6,990"}], "news": [{"headline": "Google、Gemini 4 Hydrogenを発表"}, {"headline": "Anthropic、Claude Meetingsをベータ公開"}], "week": [{"date": "2026-11-14", "day": 14, "dow": "土", "shift": "J", "dayOff": false, "today": true}, {"date": "2026-11-15", "day": 15, "dow": "日", "shift": "J", "dayOff": false, "today": false}, {"date": "2026-11-16", "day": 16, "dow": "月", "shift": "J", "dayOff": false, "today": false}, {"date": "2026-11-17", "day": 17, "dow": "火", "shift": null, "dayOff": true, "today": false}, {"date": "2026-11-18", "day": 18, "dow": "水", "shift": "O", "dayOff": false, "today": false}, {"date": "2026-11-19", "day": 19, "dow": "木", "shift": "O", "dayOff": false, "today": false}, {"date": "2026-11-20", "day": 20, "dow": "金", "shift": "O", "dayOff": false, "today": false}], "updatedAt": "2026-11-14T19:24:56+09:00"}
+{
+  "date": "2026-11-14",
+  "today": {
+    "shift": "J",
+    "start": "08:00",
+    "end": "17:00",
+    "dayOff": false
+  },
+  "tomorrow": {
+    "shift": "J",
+    "start": "08:00",
+    "end": "17:00",
+    "dayOff": false
+  },
+  "usage": {
+    "usedPercent": 17,
+    "leftPercent": 83,
+    "resetAt": "2026-11-20T15:37:00+09:00"
+  },
+  "instagram": {
+    "gumi_company": {
+      "followers": 381,
+      "delta": 2
+    },
+    "dj_gumi_company": {
+      "followers": 22,
+      "delta": 0
+    }
+  },
+  "dm": {
+    "unread": 0,
+    "requests": 12
+  },
+  "tasks": [
+    {
+      "due": "11/17",
+      "days": 3,
+      "title": "アルバム『Lita』リリース"
+    },
+    {
+      "due": "12/9",
+      "days": 25,
+      "title": "CoeFont Standard解約（12/10請求の前日まで）"
+    },
+    {
+      "due": "12/11",
+      "days": 27,
+      "title": "GitHubトークン再発行（ウィジェット用）"
+    }
+  ],
+  "deals": [
+    {
+      "name": "Ozone 12 Adv",
+      "price": "$309"
+    },
+    {
+      "name": "Anker 547",
+      "price": "¥6,990"
+    }
+  ],
+  "news": [
+    {
+      "headline": "Thinking Machines、594BパラメータのInkling 2 Smallを公開"
+    },
+    {
+      "headline": "Nex-AGI、321Bのエージェント型モデルNex-N2.6を公開"
+    }
+  ],
+  "week": [
+    {
+      "date": "2026-11-14",
+      "day": 14,
+      "dow": "土",
+      "shift": "J",
+      "dayOff": false,
+      "today": true
+    },
+    {
+      "date": "2026-11-15",
+      "day": 15,
+      "dow": "日",
+      "shift": "J",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-16",
+      "day": 16,
+      "dow": "月",
+      "shift": "J",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-17",
+      "day": 17,
+      "dow": "火",
+      "shift": null,
+      "dayOff": true,
+      "today": false
+    },
+    {
+      "date": "2026-11-18",
+      "day": 18,
+      "dow": "水",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-19",
+      "day": 19,
+      "dow": "木",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-20",
+      "day": 20,
+      "dow": "金",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    }
+  ],
+  "updatedAt": "2026-11-14T20:25:03+09:00"
+}
