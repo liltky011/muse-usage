@@ -1,1 +1,128 @@
-{"date": "2026-11-17", "today": {"shift": null, "start": null, "end": null, "dayOff": true}, "tomorrow": {"shift": "O", "start": "09:30", "end": "18:30", "dayOff": false}, "usage": {"usedPercent": 52, "leftPercent": 48, "resetAt": "2026-11-20T15:37:00+09:00"}, "instagram": {"gumi_company": {"followers": 382, "delta": 3}, "dj_gumi_company": {"followers": 22, "delta": 0}}, "dm": {"unread": 0, "requests": 12}, "tasks": [{"due": "11/17", "days": 0, "title": "アルバム『Lita』リリース"}, {"due": "12/9", "days": 22, "title": "CoeFont Standard解約（12/10請求の前日まで）"}, {"due": "12/11", "days": 24, "title": "GitHubトークン再発行（ウィジェット用）"}], "deals": [{"name": "Ozone 12 Adv", "price": "$309"}, {"name": "Anker 547", "price": "¥6,990"}], "news": [{"headline": "Alibaba、旗艦モデルQwen4-Maxを正式リリース"}, {"headline": "Tencent、低価格モデルHy4 flashを投入"}], "week": [{"date": "2026-11-17", "day": 17, "dow": "火", "shift": null, "dayOff": true, "today": true}, {"date": "2026-11-18", "day": 18, "dow": "水", "shift": "O", "dayOff": false, "today": false}, {"date": "2026-11-19", "day": 19, "dow": "木", "shift": "O", "dayOff": false, "today": false}, {"date": "2026-11-20", "day": 20, "dow": "金", "shift": "O", "dayOff": false, "today": false}, {"date": "2026-11-21", "day": 21, "dow": "土", "shift": null, "dayOff": true, "today": false}, {"date": "2026-11-22", "day": 22, "dow": "日", "shift": "J", "dayOff": false, "today": false}, {"date": "2026-11-23", "day": 23, "dow": "月", "shift": "J", "dayOff": false, "today": false}], "updatedAt": "2026-11-17T11:25:20+09:00"}
+{
+  "date": "2026-11-17",
+  "today": {
+    "shift": null,
+    "start": null,
+    "end": null,
+    "dayOff": true
+  },
+  "tomorrow": {
+    "shift": "O",
+    "start": "09:30",
+    "end": "18:30",
+    "dayOff": false
+  },
+  "usage": {
+    "usedPercent": 55,
+    "leftPercent": 45,
+    "resetAt": "2026-11-20T15:37:00+09:00"
+  },
+  "instagram": {
+    "gumi_company": {
+      "followers": 382,
+      "delta": 3
+    },
+    "dj_gumi_company": {
+      "followers": 22,
+      "delta": 0
+    }
+  },
+  "dm": {
+    "unread": 0,
+    "requests": 12
+  },
+  "tasks": [
+    {
+      "due": "11/17",
+      "days": 0,
+      "title": "アルバム『Lita』リリース"
+    },
+    {
+      "due": "12/9",
+      "days": 22,
+      "title": "CoeFont Standard解約（12/10請求の前日まで）"
+    },
+    {
+      "due": "12/11",
+      "days": 24,
+      "title": "GitHubトークン再発行（ウィジェット用）"
+    }
+  ],
+  "deals": [
+    {
+      "name": "Ozone 12 Adv",
+      "price": "$309"
+    },
+    {
+      "name": "Anker 547",
+      "price": "¥6,990"
+    }
+  ],
+  "news": [
+    {
+      "headline": "Salesforce、CRM専用推論モデル「Koa」とAIforceを発表"
+    },
+    {
+      "headline": "ByteDance、動画生成モデル「Seedance 2.5 Flash」を公開"
+    }
+  ],
+  "week": [
+    {
+      "date": "2026-11-17",
+      "day": 17,
+      "dow": "火",
+      "shift": null,
+      "dayOff": true,
+      "today": true
+    },
+    {
+      "date": "2026-11-18",
+      "day": 18,
+      "dow": "水",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-19",
+      "day": 19,
+      "dow": "木",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-20",
+      "day": 20,
+      "dow": "金",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-21",
+      "day": 21,
+      "dow": "土",
+      "shift": null,
+      "dayOff": true,
+      "today": false
+    },
+    {
+      "date": "2026-11-22",
+      "day": 22,
+      "dow": "日",
+      "shift": "J",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-23",
+      "day": 23,
+      "dow": "月",
+      "shift": "J",
+      "dayOff": false,
+      "today": false
+    }
+  ],
+  "updatedAt": "2026-11-17T12:25:26+09:00"
+}
