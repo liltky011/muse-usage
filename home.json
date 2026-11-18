@@ -1,1 +1,123 @@
-{"date":"2026-11-19","deals":[{"name":"Ozone 12 Adv","price":"$309"},{"name":"Anker 547","price":"¥6,990"}],"dm":{"requests":12,"unread":0},"instagram":{"dj_gumi_company":{"delta":0,"followers":22},"gumi_company":{"delta":3,"followers":382}},"news":[{"headline":"OpenAI、GPT-6.2 AstraとSolをリリース"},{"headline":"Microsoft、コーディング特化のMAI Code 2を発表"}],"tasks":[{"days":20,"due":"12/9","title":"CoeFont Standard解約（12/10請求の前日まで）"},{"days":22,"due":"12/11","title":"GitHubトークン再発行（ウィジェット用）"}],"today":{"dayOff":false,"end":"18:30","shift":"O","start":"09:30"},"tomorrow":{"dayOff":false,"end":"18:30","shift":"O","start":"09:30"},"updatedAt":"2026-11-19T03:25:11+09:00","usage":{"leftPercent":28,"resetAt":"2026-11-20T15:37:00+09:00","usedPercent":72},"week":[{"date":"2026-11-19","day":19,"dayOff":false,"dow":"木","shift":"O","today":true},{"date":"2026-11-20","day":20,"dayOff":false,"dow":"金","shift":"O","today":false},{"date":"2026-11-21","day":21,"dayOff":true,"dow":"土","shift":null,"today":false},{"date":"2026-11-22","day":22,"dayOff":false,"dow":"日","shift":"J","today":false},{"date":"2026-11-23","day":23,"dayOff":false,"dow":"月","shift":"J","today":false},{"date":"2026-11-24","day":24,"dayOff":false,"dow":"火","shift":"B","today":false},{"date":"2026-11-25","day":25,"dayOff":true,"dow":"水","shift":null,"today":false}]}
+{
+  "date": "2026-11-19",
+  "today": {
+    "shift": "O",
+    "start": "09:30",
+    "end": "18:30",
+    "dayOff": false
+  },
+  "tomorrow": {
+    "shift": "O",
+    "start": "09:30",
+    "end": "18:30",
+    "dayOff": false
+  },
+  "usage": {
+    "usedPercent": 72,
+    "leftPercent": 28,
+    "resetAt": "2026-11-20T15:37:00+09:00"
+  },
+  "instagram": {
+    "gumi_company": {
+      "followers": 382,
+      "delta": 3
+    },
+    "dj_gumi_company": {
+      "followers": 22,
+      "delta": 0
+    }
+  },
+  "dm": {
+    "unread": 0,
+    "requests": 12
+  },
+  "tasks": [
+    {
+      "due": "12/9",
+      "days": 20,
+      "title": "CoeFont Standard解約（12/10請求の前日まで）"
+    },
+    {
+      "due": "12/11",
+      "days": 22,
+      "title": "GitHubトークン再発行（ウィジェット用）"
+    }
+  ],
+  "deals": [
+    {
+      "name": "Ozone 12 Adv",
+      "price": "$309"
+    },
+    {
+      "name": "Anker 547",
+      "price": "¥6,990"
+    }
+  ],
+  "news": [
+    {
+      "headline": "OpenAI、GPT-6.2 AstraとSolをリリース"
+    },
+    {
+      "headline": "Microsoft、コーディング特化のMAI Code 2を発表"
+    }
+  ],
+  "week": [
+    {
+      "date": "2026-11-19",
+      "day": 19,
+      "dow": "木",
+      "shift": "O",
+      "dayOff": false,
+      "today": true
+    },
+    {
+      "date": "2026-11-20",
+      "day": 20,
+      "dow": "金",
+      "shift": "O",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-21",
+      "day": 21,
+      "dow": "土",
+      "shift": null,
+      "dayOff": true,
+      "today": false
+    },
+    {
+      "date": "2026-11-22",
+      "day": 22,
+      "dow": "日",
+      "shift": "J",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-23",
+      "day": 23,
+      "dow": "月",
+      "shift": "J",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-24",
+      "day": 24,
+      "dow": "火",
+      "shift": "B",
+      "dayOff": false,
+      "today": false
+    },
+    {
+      "date": "2026-11-25",
+      "day": 25,
+      "dow": "水",
+      "shift": null,
+      "dayOff": true,
+      "today": false
+    }
+  ],
+  "updatedAt": "2026-11-19T04:25:20+09:00"
+}
