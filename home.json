@@ -13,8 +13,8 @@
     "dayOff": false
   },
   "usage": {
-    "usedPercent": 26,
-    "leftPercent": 74,
+    "usedPercent": 27,
+    "leftPercent": 73,
     "resetAt": "2026-11-27T15:59:00+09:00"
   },
   "instagram": {
@@ -55,10 +55,10 @@
   ],
   "news": [
     {
-      "headline": "Thinking Machines、Inkling 2 Miniを公開 — 26Bのループ型モデルがローカル動作に対応"
+      "headline": "Tencent、770Bパラメータのマルチモーダルモデル「Hy4」の重みを公開"
     },
     {
-      "headline": "Tencent、770BマルチモーダルモデルHy4の重みを公開"
+      "headline": "Thinking Machines Lab、26Bパラメータのループ型モデル「Inkling 2 Mini」を公開"
     }
   ],
   "week": [
@@ -119,5 +119,5 @@
       "today": false
     }
   ],
-  "updatedAt": "2026-11-21T19:25:12+09:00"
+  "updatedAt": "2026-11-21T20:25:00+09:00"
 }
