@@ -51,10 +51,10 @@
   ],
   "news": [
     {
-      "headline": "Z.ai、750BパラメータのGLM-5.4を発表"
+      "headline": "Z.ai、新型フラッグシップ「GLM-5.4」を発表"
     },
     {
-      "headline": "DeepMind、Gemini 4エージェントで量子回路を最大11.8倍効率化"
+      "headline": "Anthropic、PRを審査・修正・承認する「Claude Ship」ベータ開始"
     }
   ],
   "week": [
@@ -115,5 +115,5 @@
       "today": false
     }
   ],
-  "updatedAt": "2026-11-24T19:24:32+09:00"
+  "updatedAt": "2026-11-24T20:24:52+09:00"
 }
