@@ -13,8 +13,8 @@
     "dayOff": false
   },
   "usage": {
-    "usedPercent": 69,
-    "leftPercent": 31,
+    "usedPercent": 70,
+    "leftPercent": 30,
     "resetAt": "2026-11-27T15:59:00+09:00"
   },
   "instagram": {
@@ -42,7 +42,7 @@
   "deals": [
     {
       "name": "Ozone 12 Adv",
-      "price": "€333"
+      "price": "$309"
     },
     {
       "name": "Anker 547",
@@ -51,10 +51,10 @@
   ],
   "news": [
     {
-      "headline": "Z.ai、ループ型Transformerの旗艦モデル「GLM-5.4」を発表"
+      "headline": "GPT-6がタンパク質設計に成功、5標的で結合を確認"
     },
     {
-      "headline": "OpenAI、GPT-6のタンパク質設計能力を発表　実験で10.9%が結合"
+      "headline": "GPT-6.2 Astraが系外惑星候補の発見を支援"
     }
   ],
   "week": [
@@ -115,5 +115,5 @@
       "today": false
     }
   ],
-  "updatedAt": "2026-11-25T19:25:01+09:00"
+  "updatedAt": "2026-11-25T20:24:48+09:00"
 }
