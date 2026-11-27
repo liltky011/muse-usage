@@ -13,8 +13,8 @@
     "dayOff": false
   },
   "usage": {
-    "usedPercent": 2,
-    "leftPercent": 98,
+    "usedPercent": 3,
+    "leftPercent": 97,
     "resetAt": "2026-12-04T15:59:00+09:00"
   },
   "instagram": {
@@ -115,5 +115,5 @@
       "today": false
     }
   ],
-  "updatedAt": "2026-11-27T22:25:20+09:00"
+  "updatedAt": "2026-11-27T23:25:14+09:00"
 }
