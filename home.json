@@ -51,10 +51,10 @@
   ],
   "news": [
     {
-      "headline": "Google、WorkspaceへのAIエージェント接続をMCP経由に限定へ"
+      "headline": "OpenAI、音声エージェント向け「GPT-Live-1.1」を公開"
     },
     {
-      "headline": "Liquid AI、意思決定モデル「d1.3-ultra」を公開"
+      "headline": "Liquid AI、意思決定モデル「d1.3-ultra」を発表"
     }
   ],
   "week": [
@@ -115,5 +115,5 @@
       "today": false
     }
   ],
-  "updatedAt": "2026-11-28T19:25:20+09:00"
+  "updatedAt": "2026-11-28T20:24:56+09:00"
 }
